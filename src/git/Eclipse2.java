@@ -1,14 +1,18 @@
 package git;
-import java.util.Scanner;
+
+
+
 public class Eclipse2 {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		 double num1 = 5.0;
+		 double num2=16.0;
+		 
+	        double coseno = Math.cos(num1);
 
 	}
-	
-	private static double calcularRaizCuadrada(double a) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+	 double num2 = 16.0;{
+     double seno = Math.sin(num2);
+
+
 }
+	}
