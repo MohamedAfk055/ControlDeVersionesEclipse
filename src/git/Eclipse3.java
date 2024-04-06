@@ -10,5 +10,9 @@ public class Eclipse3 {
 
 
 	}
+	 double num1 = 5.0;	{     
+     double coseno = Math.cos(num1);
+
+}
 	}
 	
