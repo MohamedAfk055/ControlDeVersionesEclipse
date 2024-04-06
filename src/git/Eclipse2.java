@@ -10,8 +10,8 @@ public class Eclipse2 {
 	        double coseno = Math.cos(num1);
 
 	}
-	 double num2 = 16.0;{
-     double seno = Math.sin(num2);
+	 double num1 = 16.0;{
+     double seno = Math.sin(num1);
 
 
 }

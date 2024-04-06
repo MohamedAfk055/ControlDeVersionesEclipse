@@ -8,7 +8,7 @@ public class Eclipse1 {
 	 double num1 = 5.0;
 	 double num2 = 8.0;
 
-     double tangente = Math.tan(num1);
+     double tangente = Math.tan(num2);
 
 
 	}
