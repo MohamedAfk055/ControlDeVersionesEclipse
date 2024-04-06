@@ -9,4 +9,9 @@ public class Eclipse2 {
 	        double coseno = Math.cos(num1);
 
 	}
+	 double num1 = 5.0;{
+     double seno = Math.sin(num1);
+
+
+}
 	}
